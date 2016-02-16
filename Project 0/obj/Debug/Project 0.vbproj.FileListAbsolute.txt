@@ -1,0 +1,10 @@
+c:\users\david\documents\visual studio 2013\Projects\Project 0\Project 0\bin\Debug\Project 0.exe.config
+C:\Users\David\Documents\Visual Studio 2013\Projects\Project 0\Project 0\bin\Debug\Project 0.exe
+C:\Users\David\Documents\Visual Studio 2013\Projects\Project 0\Project 0\bin\Debug\Project 0.pdb
+C:\Users\David\Documents\Visual Studio 2013\Projects\Project 0\Project 0\bin\Debug\Project 0.xml
+C:\Users\David\Documents\Visual Studio 2013\Projects\Project 0\Project 0\obj\Debug\Project_0.Form1.resources
+C:\Users\David\Documents\Visual Studio 2013\Projects\Project 0\Project 0\obj\Debug\Project_0.Resources.resources
+C:\Users\David\Documents\Visual Studio 2013\Projects\Project 0\Project 0\obj\Debug\Project 0.vbproj.GenerateResource.Cache
+C:\Users\David\Documents\Visual Studio 2013\Projects\Project 0\Project 0\obj\Debug\Project 0.exe
+C:\Users\David\Documents\Visual Studio 2013\Projects\Project 0\Project 0\obj\Debug\Project 0.xml
+C:\Users\David\Documents\Visual Studio 2013\Projects\Project 0\Project 0\obj\Debug\Project 0.pdb
